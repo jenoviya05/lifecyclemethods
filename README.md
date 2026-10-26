@@ -123,14 +123,19 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT
 ## onCreate()
 <img width="1917" height="1078" alt="Screenshot 2026-10-26 222619" src="https://github.com/user-attachments/assets/2a811455-4e6c-4e81-9114-8ee059f36e3d" />
+
 ## onPause()
 <img width="1917" height="1078" alt="Screenshot 2026-10-26 222636" src="https://github.com/user-attachments/assets/97a37137-7818-4931-8898-fca00dd29f5a" />
+
 ## onStart()
 <img width="1917" height="1078" alt="Screenshot 2026-10-26 225957" src="https://github.com/user-attachments/assets/724b0672-6aa5-4d1f-94ae-7779bf860624" />
+
 ## onResume()
 <img width="1917" height="1078" alt="Screenshot 2026-10-26 230024" src="https://github.com/user-attachments/assets/a40bb48d-fdbc-48aa-9d25-c4c35872a09c" />
+
 ## onRestart()
 <img width="1917" height="1078" alt="Screenshot 2026-10-26 230213" src="https://github.com/user-attachments/assets/dc6e7e9b-640f-46d4-83dd-86535018b8ec" />
+
 ## activity_main.xml
 <img width="1917" height="1078" alt="Screenshot 2026-10-26 230247" src="https://github.com/user-attachments/assets/91581e0c-865f-4e10-868a-8a67d006304a" />
 
